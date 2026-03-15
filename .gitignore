@@ -1,0 +1,6 @@
+# Ignora arquivos compilados e gerados automaticamente
+*.o
+g-v1
+lexico.c
+sintatico.c
+g-v1.h

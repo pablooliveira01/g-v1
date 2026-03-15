@@ -1,0 +1,10 @@
+principal {
+    x : int;
+    letra : car;
+    
+    x = 10;
+    
+    se (x > 5) entao
+        escreva "Tudo funcionando!";
+    fimse
+}
